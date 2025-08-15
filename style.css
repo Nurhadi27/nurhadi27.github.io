@@ -1,0 +1,51 @@
+.jumbotron {
+  padding-top: 7rem;
+  /* background-color: rgb(132, 250, 121); */
+  background-color: #262533;
+}
+
+h4,
+h2 {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.card {
+  min-height: 420px;
+}
+
+.navbar-brand {
+  font-family: "Google Sans Code", monospace;
+  color: #262533;
+}
+
+.display-4 {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #ffffff;
+}
+.navbar-nav .nav-link {
+  font-family: "Google Sans Code", monospace;
+  color: #262533;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #8f8f8f;
+}
+
+#projects {
+  background-color: #262533;
+}
+
+#about {
+  background-color: #8f8f8f;
+}
+#contact {
+  background-color: #8f8f8f;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #262533;
+}
